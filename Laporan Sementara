@@ -1,0 +1,6 @@
+1. Pada hari Rabu, 3 September 2025, saya melakukan praktikum Kontrol Cerdas dan melakukan instalasi aplikasi GitHub, Python, Git Bash, dan Visual Studio Code. Keempat aplikasi ini saling berhubungan dan digunakan untuk menyimpan file, memproses, dan menjalankan codingan.
+2. ⁠Keempat aplikasi mempunyai fungsi masing-masing.
+   GitHub : digunakan untuk menyimpan dan mengelola file yang telah dibuat.
+   Python : digunakan untuk menjalankan suatu program codingan, sehingga dapat memproses data dan menghasilkan output.
+   Git Bash : digunakan untuk menjalankan perintah, seperti clone.
+   Visual Studio Code : digunakan untuk menjalankan suatu perintah dari codingan yang menampilkan output dari seluruh program yang telah diinput sehingga dapat menampilkan output berupa foto dan warna yang terdeteksi ( warna merah, kuning, biru, dan hijau)
